@@ -1,0 +1,1 @@
+A simple sequence → sequence model implemented in tf.keras (word-level tokenization), using an Embedding → LSTM → Dense(softmax) pipeline that produces a probability distribution over the vocabulary at every time step.
